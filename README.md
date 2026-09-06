@@ -8,7 +8,7 @@ existing 1Fi app's design system (purple/violet theme, pill tabs, card lists).
 
 | Marketplace listing | Product detail — variant & EMI selection |
 |---|---|
-| ![Marketplace listing](public/1fi-2.jpeg) | ![Product detail](public/1fi-1.jpeg) |
+| ![Marketplace listing](public/1fi-1.jpeg) | ![Product detail](public/1fi-2.jpeg) |
 
 ## Stack
 - Expo SDK 57, React Native 0.86, React 19.2
